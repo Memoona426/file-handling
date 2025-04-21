@@ -1,0 +1,22 @@
+{
+  "lipStick": {
+    "quantity": 5,
+    "price": 4000
+  },
+  "eyeliner": {
+    "quantity": 4,
+    "price": 6000
+  },
+  "blushon": {
+    "quantity": 6,
+    "price": 3000
+  },
+  "facepower": {
+    "quantity": 3,
+    "price": 1000
+  },
+  "foundation": {
+    "quantity": 1,
+    "price": 9000
+  }
+}
